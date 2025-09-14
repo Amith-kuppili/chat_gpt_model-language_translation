@@ -1,6 +1,6 @@
 # chat_gpt_model-language_translation
 
-NOTE:for vs code provided more info in below
+NOTE:for vs code view code editior to better clarification
 
 English → French Transformer Translation
 
